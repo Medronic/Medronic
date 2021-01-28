@@ -12,6 +12,8 @@
   <img align="left" alt="Medronic | Twitch" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
 <a href="https://twitter.com/MedronicBR">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Medronic | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=medronic.medronic)
+<a href="https://visitor-badge.glitch.me/badge?page_id=medronic.medronic">
+  <img align="left" alt="Medronic visitors" width="70px" src="https://visitor-badge.glitch.me/badge?page_id=medronic.medronic" />
+</a>
